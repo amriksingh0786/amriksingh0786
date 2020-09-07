@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   JavaScript . ReactJS . NodeJS . ExpressJS . HTML . CSS . SASS . GIT . ReduxJS 
   
   #### Tools & Libraries
-  VSCode, GSAP, Framer Motion, Lottiefiles, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
+  VSCode,AdobeXD, Figma
 </p>
