@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ### I work on ... 💻
   
   #### Languages & Framework
-  JavaScript . ReactJS . NodeJS . ExpressJS . HTML . CSS . SASS . GIT . ReduxJS 
+  JavaScript . ReactJS .Angular, NodeJS . ExpressJS . HTML . CSS . SASS . GIT . ReduxJS 
   
   #### Tools & Libraries
   VSCode,AdobeXD, Figma
